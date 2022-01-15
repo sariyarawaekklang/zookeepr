@@ -162,6 +162,26 @@
         "hungry"
       ],
       "id": "16"
+    },
+    {
+      "name": "taylor",
+      "species": "blank",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "jimmy",
+      "species": "blank",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "18"
     }
   ]
 }
